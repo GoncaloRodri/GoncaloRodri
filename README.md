@@ -1,8 +1,17 @@
 ## Hi there 👋
 
-I'm Gonçalo Rodrigues!
 
-- 🔭 I’m currently working on Associação dos Estudantes da Faculdade de Ciências e Tecnologia (AEFCT)
-- 🌱 I’m currently studying Software Engineering at NOVA FCT
+My name is Gonçalo Rodrigues, a portuguese student with a passion for coding & scripting. 
+
+### About me
+
+- 🔭 I’m currently volunteering on __AEFCT__ (Associação dos Estudantes da Faculdade de Ciências e Tecnologia)
+- 🌱 I’m currently studying __Software Engineering__ at NOVA FCT
+- 🎯 I'm currently working on my masters dissertation on "_Use of Differential Privacy on Unobservable Privacy-Preserved Communication_", where I aim to develop a new Tor Scheduling Component! 
 - 📫 How to reach me: gg.rodrigues@campus.fct.unl.pt
 
+### 🔧 Programing Languages
+![Languages](https://skillicons.dev/icons?i=go,rust,bash,javascript,python,html,css,tailwind)
+
+### 🔨 Tecnologies & Tools
+![Tecnologies & Tools](https://skillicons.dev/icons?i=git,docker,react,nodejs,linux,nix,firebase,latex)

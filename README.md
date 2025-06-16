@@ -5,7 +5,7 @@ My name is Gonçalo Rodrigues, a portuguese student with a passion for coding & 
 
 ### About me
 
-- 🔭 I’m currently volunteering on __AEFCT__ (Associação dos Estudantes da Faculdade de Ciências e Tecnologia)
+- 🔭 I’m currently volunteering on __AEFCT__ ([Associação dos Estudantes da Faculdade de Ciências e Tecnologia](https://ae.fct.unl.pt/))
 - 🌱 I’m currently studying __Software Engineering__ at NOVA FCT
 - 🎯 I'm currently working on my masters dissertation on "_Use of Differential Privacy on Unobservable Privacy-Preserved Communication_", where I aim to develop a new Tor Scheduling Component, availabe [here](https://gitlab.torproject.org/GoncaloRodri/differential-privacy-tor)! 
 - 📫 How to reach me: gg.rodrigues@campus.fct.unl.pt

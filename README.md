@@ -11,7 +11,7 @@ My name is Gonçalo Rodrigues, a portuguese student with a passion for coding & 
 - 📫 How to reach me: gg.rodrigues@campus.fct.unl.pt
 
 ### 🔧 Programing Languages
-![Languages](https://skillicons.dev/icons?i=go,rust,bash,javascript,python,html,css,tailwind)
+![Languages](https://skillicons.dev/icons?i=go,rust,bash,c,javascript,python,html,css,tailwind)
 
 ### 🔨 Tecnologies & Tools
 ![Tecnologies & Tools](https://skillicons.dev/icons?i=git,docker,react,nodejs,linux,nix,firebase,latex)
